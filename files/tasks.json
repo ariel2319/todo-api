@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Lavar",
+    "description": "lavar la ropa del festejo",
+    "status": false
+  },
+  {
+    "title": "Caminar",
+    "description": "ir a bajar todo el alcohol por los festejos",
+    "status": false,
+    "id": 3
+  },
+  {
+    "title": "Jugar",
+    "description": "hacer un partidito de FIFA",
+    "status": true,
+    "id": 4
+  }
+]
